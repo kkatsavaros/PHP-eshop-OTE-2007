@@ -1,0 +1,32 @@
+@charset "windows-1253";
+/* CSS Document */
+body{
+	margin-left:20%;
+	margin-right:20%;
+	background-color:#D1D190; 	
+}  
+  
+h1 {color: blue;
+text-align:center;
+}
+
+h2 {color:blue;
+font-style:italic;
+text-align:center;
+
+}
+	
+p {font-family:Arial, Helvetica, sans-serif;
+	font-size:large;
+	color:blue;
+}
+	
+.label{color:red}	
+	
+.texts{ 
+		color:blue;
+		background-color:#ccc;
+		
+		
+		
+}
