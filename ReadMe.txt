@@ -1,3 +1,6 @@
+PHP-eshop-OTE-2007
+
+
 This is my dissertation at the Master of Informatics of the University of the Aegean in Mitilini Island.
 
 The back end is written with PHP and the front end is with Macromedia Flash.
@@ -19,6 +22,4 @@ The front end of the project starts with "ote-shop_13.swf" file.
 The back end of the project starts with "ote-shop_13.swf" file.
 
 
-
-
-
+Katsavaros Konstantinos
